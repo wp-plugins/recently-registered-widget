@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recently Registered\n"
+"POT-Creation-Date: 2013-12-08 20:17+0100\n"
+"PO-Revision-Date: 2013-12-08 20:25+0100\n"
+"Last-Translator: Tomek <tomek.maestro@gmail.com>\n"
+"Language-Team: Tomek <tomek.maestro@gmail.com>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: c:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\recently registered\n"
+
+#: c:\xampp\htdocs\wordpress\wp-content\plugins\recently registered/recently
+#: registered.php:20
+msgid "List of recently registered users"
+msgstr "Mostanában regisztrált felhasználók listája"
+
+#: c:\xampp\htdocs\wordpress\wp-content\plugins\recently registered/recently
+#: registered.php:23 registered.php:48
+msgid "Recently registered"
+msgstr "Mostanában regisztrált"
+
+#: c:\xampp\htdocs\wordpress\wp-content\plugins\recently registered/recently
+#: registered.php:34
+msgid "They registered recently:"
+msgstr "Mostanában regisztráltak:"
+
+#: c:\xampp\htdocs\wordpress\wp-content\plugins\recently registered/recently
+#: registered.php:36
+msgid "Nickname:"
+msgstr "Becvenév:"
