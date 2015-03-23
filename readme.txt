@@ -2,8 +2,8 @@
 Contributors: tomek00
 Tags: recent, recently, latest, registred, registered, list, widget
 Donate link: http://wp-learning.net/blog/felajanl
-Requires at least: 3.0
-Tested up to: 3.5.1
+Requires at least: 3.4
+Tested up to: 4.1.1
 Stable tag: trunk
 
 List of recently registered users
