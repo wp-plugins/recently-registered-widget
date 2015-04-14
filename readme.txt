@@ -22,7 +22,8 @@ List of recently registered users
 None
 
 == Screenshots ==
-None
+1. screenshot-1.png
+1. screenshot-2.png
 
 == Upgrade Notice ==
 Nothing

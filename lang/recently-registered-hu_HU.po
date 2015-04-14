@@ -1,36 +1,161 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Recently Registered\n"
-"POT-Creation-Date: 2013-12-08 20:17+0100\n"
-"PO-Revision-Date: 2013-12-08 20:25+0100\n"
+"POT-Creation-Date: 2015-04-13 19:40+0100\n"
+"PO-Revision-Date: 2015-04-13 19:41+0100\n"
 "Last-Translator: Tomek <tomek.maestro@gmail.com>\n"
 "Language-Team: Tomek <tomek.maestro@gmail.com>\n"
 "Language: hu_HU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
-"X-Poedit-KeywordsList: __\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: c:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
-"\\recently registered\n"
+"X-Poedit-SearchPath-0: c:\\wamp\\www\\wp41b1\\assets\\modul\\recently-"
+"registered-widget\n"
 
-#: c:\xampp\htdocs\wordpress\wp-content\plugins\recently registered/recently
-#: registered.php:20
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:21
 msgid "List of recently registered users"
 msgstr "Mostanában regisztrált felhasználók listája"
 
-#: c:\xampp\htdocs\wordpress\wp-content\plugins\recently registered/recently
-#: registered.php:23 registered.php:48
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:24
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:142
 msgid "Recently registered"
 msgstr "Mostanában regisztrált"
 
-#: c:\xampp\htdocs\wordpress\wp-content\plugins\recently registered/recently
-#: registered.php:34
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:49
 msgid "They registered recently:"
 msgstr "Mostanában regisztráltak:"
 
-#: c:\xampp\htdocs\wordpress\wp-content\plugins\recently registered/recently
-#: registered.php:36
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:53
+msgid "Administrator"
+msgstr "Adminisztrátor"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:55
+msgid "Editor"
+msgstr "Szerkesztő"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:57
+msgid "Author"
+msgstr "Szerző"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:59
+msgid "Contributor"
+msgstr "Közreműködő"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:61
+msgid "Subscriber"
+msgstr "Feliratkozó"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:68
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:70
+msgid "Full name:"
+msgstr "Teljes nés:"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:68
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:84
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:106
+msgid "Not set"
+msgstr "Nincs beállítva"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:74
 msgid "Nickname:"
 msgstr "Becvenév:"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:77
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:80
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:84
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:86
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:90
+msgid "Website:"
+msgstr "Honlap:"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:93
+msgid "Joined:"
+msgstr "Csatlakozott:"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:96
+msgid "Role:"
+msgstr "Szerepkör:"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:99
+msgid "Posts number:"
+msgstr "Bejegyzések száma:"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:102
+msgid "Comments number:"
+msgstr "Hozzászólások száma:"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:106
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:108
+msgid "Biography:"
+msgstr "Életrajzi információ:"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:146
+msgid "Title:"
+msgstr "Cím:"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:150
+msgid "Number of users displayed:"
+msgstr "Megjelenített felhasználók száma:"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:155
+msgid "Show avatar"
+msgstr "Avatár megjelenítése"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:157
+msgid "Avatar align:"
+msgstr "Avatár igazítása:"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:159
+msgid "Left"
+msgstr "Bal"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:160
+msgid "Right"
+msgstr "Jobb"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:166
+msgid "Show full name"
+msgstr "Teljes név megjelenítése"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:168
+msgid "Show nickname"
+msgstr "Becenév megjelenítése"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:170
+msgid "Show e-mail address"
+msgstr "E-mail cím megjelenítése"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:172
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:176
+msgid "Be clickable"
+msgstr "Legyen kattintható"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:174
+msgid "Show website"
+msgstr "Honlap megjelenítése"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:178
+msgid "Show registered date"
+msgstr "Csatlakozás dátumának megjelenítése"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:180
+msgid "Show role"
+msgstr "Szerepkör megjelenítése"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:182
+msgid "Show all posts number"
+msgstr "Összes bejegyzés számának megjelenítése"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:184
+msgid "Show all comments number"
+msgstr "Összes hozzászólás számának megjelenítése"
+
+#: c:\wamp\www\wp41b1\assets\modul\recently-registered-widget/recently-registered-widget.php:186
+msgid "Show biography"
+msgstr "Életrajzi információ megjelenítésre"
