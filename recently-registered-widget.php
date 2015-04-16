@@ -5,7 +5,7 @@ Description: List of recently registered users
 Author: Tomek
 Author URI: http://wp-learning.net
 Plugin URI: http://wp-learning.net
-Version: 1.0
+Version: 1.1
 */
 
 
@@ -109,9 +109,9 @@ class WP_Widget_Recently_Registered extends WP_Widget {
 							}
 						}
 						if($avatar_align == 'left') {
-							echo '<div style="float:right"><div style="float:left;height:40px;padding:5px">' . $show_avatar . '</div>' . $show_fullname . $show_nickname . $show_email . $show_url . $show_registered . $show_role . $show_post . $show_comments . $show_bio . '</div><hr>';
+							echo '<br><div style="float:right;width:100%"><div style="float:left;height:45px;padding:5px">'.$show_avatar.'</div>' . $show_fullname . $show_nickname . $show_email . $show_url . $show_registered . $show_role . $show_post . $show_comments . $show_bio.'</div><hr>';
 						} else {
-							echo '<div style="float:left"><div style="float:right;height:40px;padding:5px">' . $show_avatar . '</div>' . $show_fullname . $show_nickname . $show_email . $show_url . $show_registered . $show_role . $show_post . $show_comments . $show_bio . '</div><hr>';
+							echo '<br><div style="float:right;width:100%"><div style="float:right;height:45px;padding:5px">'.$show_avatar.'</div>' . $show_fullname . $show_nickname . $show_email . $show_url . $show_registered . $show_role . $show_post . $show_comments . $show_bio.'</div><hr>';
 						}
 					}
 			echo $after_widget;
